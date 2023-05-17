@@ -1,0 +1,943 @@
+name,text,race
+Astral Portal,Summon a random Legendary minion.,NULL
+Ancient Teachings,Draw a card.,NULL
+Druid of the Flame,NULL,BEAST
+Justicar Trueheart,Battlecry: Replace your starting Hero Power with a better one.,NULL
+Faceless Behemoth,NULL,NULL
+Rob Pardo,You can't start a game without this minion in your deck.,NULL
+Eve of Destruction,Stats increased.,NULL
+General Drakkisath,NULL,NULL
+Shrink Ray,-2 Attack this turn.,NULL
+Harvest,"Hero Power
+Draw a card. Gain a Mana Crystal.",NULL
+Eydis Darkbane,"Whenever you target this minion with a spell, deal 3 damage to a random enemy.",NULL
+Enhanced,Raid Leader is granting this minion +1 Attack.,NULL
+Trogg Hate Minions!,"Passive Hero Power
+ Enemy minions cost (11). Swap at the start of your turn.",NULL
+Tank Up!,"Hero Power
+Gain 4 Armor.",NULL
+Smuggling,+2/+2 from Smuggler's Crate.,NULL
+Priestess of Elune,Battlecry: Restore 4 Health to your hero.,NULL
+Dire Fate: Murlocs,Turn each minion in play into a 1/1 Murloc.,NULL
+Cursed!,"While this is in your hand, take 2 damage at the start of your turn.",NULL
+Weasel Tunneler,Deathrattle: Shuffle this minion into your opponent's deck.,BEAST
+Dragon Consort,Battlecry: The next Dragon you play costs (2) less.,DRAGON
+I Am Murloc,"Summon three, four, or five 1/1 Murlocs.",NULL
+Chromatic Drake,NULL,DRAGON
+Vaelastrasz the Corrupt,NULL,NULL
+Evolve,Transform your minions into random minions that cost (1) more.,NULL
+Anub'Rekhan,NULL,NULL
+Anodized Robo Cub,"Taunt. Choose One -
++1 Attack; or +1 Health.",MECHANICAL
+Felfire Potion,Deal 5 damage to all characters.,NULL
+Steady Shot,"Hero Power
+Deal 2 damage to the enemy hero.",NULL
+Venture Co. Mercenary,Your minions cost (3) more.,NULL
+Netherspite Historian,"Battlecry: If you're holding a Dragon, Discover
+a Dragon.",NULL
+Jade Golem,NULL,NULL
+Firelands Portal,"Deal 5 damage. Summon a random
+5-Cost minion.",NULL
+Lava Shock,Cards you play this turn don't cause Overload.,NULL
+Demonfuse,Give a Demon +3/+3. Give your opponent a Mana Crystal.,NULL
+The Majordomo,"Hero Power
+Summon a 1/3 Flamewaker Acolyte.",NULL
+Flamewreathed Faceless,Overload: (2),NULL
+Eruption,"Hero Power
+Deal 2 damage to the left-most enemy minion.",NULL
+Ignite Mana,"Hero Power
+Deal 5 damage to the enemy hero if they have any unspent Mana.",NULL
+The Rookery,"Hero Power
+Give all Corrupted Eggs +1 Health, then summon one.",NULL
+Animated Shield,Taunt,NULL
+Twilight Endurance,Increased Health.,NULL
+Bloodthistle Toxin,"Return a friendly minion to your hand.
+It costs (2) less.",NULL
+Windfury,Give a minion Windfury.,NULL
+Ice Block,Your hero is Immune this turn.,NULL
+Zealous Initiate,Deathrattle: Give a random friendly minion +1/+1.,NULL
+Ancient Curse,"When you draw this, take 7 damage and draw a card.",NULL
+Wild Magic,"Hero Power
+Put a random spell from your opponent's class into your hand.",NULL
+Archaedas,NULL,NULL
+Castle,"Hero Power
+Discover a chess piece.",NULL
+Call of the Wild,Summon all three Animal Companions.,NULL
+Stand Down!,Attack changed to 1.,NULL
+Preparation,The next spell you cast this turn costs (3) less.,NULL
+Kel'Thuzad,NULL,NULL
+Jaina Proudmoore,NULL,NULL
+Call Mediva,Summon a random Mediva,NULL
+Chieftain Scarvash,NULL,NULL
+Enraged,+2 Attack,NULL
+Andy Brock,"Can't be Silenced. Divine Shield, Stealth.",NULL
+Kabal Demon,NULL,DEMON
+Bite,+4 Attack this turn.,NULL
+Dragonscale Warrior,"Whenever any player targets this minion with a spell, that player draws a card.",NULL
+Antique Healbot,Battlecry: Restore 8 Health to your hero.,MECHANICAL
+Treasure Crazed,Increased Attack.,NULL
+Henry Ho,Battlecry: Spectate your opponent's hand.,NULL
+Frog,Taunt,BEAST
+Forbidden Shaping,Spend all your Mana. Summon a random minion that costs that much.,NULL
+Hammer of Wrath,"Deal 3 damage.
+Draw a card.",NULL
+Diabolical Powers,Summon a random Imp.,NULL
+Shadowboxer,"Whenever a character is healed, deal 1 damage to a random enemy.",MECHANICAL
+Kazakus Potion,NULL,NULL
+Hand of Argus,+1/+1 and Taunt.,NULL
+Well Fed,Increased Attack and Health.,NULL
+Psych-o-Tron,"Taunt
+Divine Shield",MECHANICAL
+Training Complete,Taunt,NULL
+Addled Grizzly,"After you summon a minion, give it +1/+1.",BEAST
+Sir Zeliek,Lady Blaumeux is Immune.,NULL
+Mukla's Champion,Inspire: Give your other minions +1/+1.,BEAST
+Mark of the Horsemen,Give your minions and your weapon +1/+1.,NULL
+Prince Malchezaar,NULL,NULL
+Release the Aberrations!,Summon 3 Aberrations.,NULL
+Priest of the Feast,"Whenever you cast a spell, restore 3 Health to
+your hero.",NULL
+"DIE, INSECTS!","Hero Power
+Deal 8 damage to a random enemy. TWICE.",NULL
+Bear Trap,"Secret: After your hero is attacked, summon a 3/3 Bear with Taunt.",NULL
+Teachings of the Kirin Tor,Spell Damage +1.,NULL
+Mutation,"Hero Power
+Discard a random card.",NULL
+Blessing of Might,+3 Attack.,NULL
+Mech Fan,Taunt,NULL
+Burrowing Mine,"When you draw this, it explodes. You take 10 damage and draw a card.",NULL
+Fadeleaf,Stealthed until your next turn.,NULL
+Yarrr!,Southsea Captain is granting +1/+1.,NULL
+Feugen,NULL,NULL
+AI Helper Buddy,Get the AI ready for testing.,NULL
+Unity,NULL,NULL
+Toshley,Battlecry and Deathrattle: Add a Spare Part card to your hand.,NULL
+Jade Idol,Choose One - Summon a{1} {0} Jade Golem; or Shuffle 3 copies of this card into your deck.,NULL
+Ironforge Rifleman,Battlecry: Deal 1 damage.,NULL
+Brood Affliction: Green,"While this is in your hand, restore 6 health to your opponent at the start of your turn.",NULL
+Jade Chieftain,Battlecry: Summon a{1} {0} Jade Golem. Give it Taunt.,NULL
+Gluth,NULL,NULL
+Corruption,"Choose an enemy minion. At the start of your turn, destroy it.",NULL
+Soul Tap,"Hero Power
+Draw a card.",NULL
+Slithering Archer,Battlecry: Deal 2 damage to all enemy minions.,NULL
+Tirion Fordring,Divine Shield. Taunt. Deathrattle: Equip a 5/3 Ashbringer.,NULL
+Earthen Pursuer,NULL,NULL
+Grimestreet Pawnbroker,Battlecry: Give a random weapon in your hand +1/+1.,NULL
+Argent Lance,"Battlecry: Reveal a minion in each deck. If yours costs more, +1 Durability.",NULL
+Temple Escape,NULL,NULL
+Screwy Jank,NULL,NULL
+Runeblade,Has +6 Attack if the other Horsemen are dead.,NULL
+Sword of Justice,"After you summon a minion, give it +1/+1 and this loses 1 Durability.",NULL
+Table Set,NULL,NULL
+Maiden of the Lake,Your Hero Power costs (1).,NULL
+Flame of Azzinoth,NULL,NULL
+OLDTBST Push Common Card,push a common card into player's hand,NULL
+Hardpacked Snowballs,Return 3 random enemy minions to your opponent's hand.,NULL
+Infernal,NULL,DEMON
+Big Banana,Has +2/+2.,NULL
+Archaedas,"At the end of your turn, turn a random enemy minion into a 0/2 Statue.",NULL
+Choose a New Card!,Look at 3 random cards. Choose one and put it into your hand.,NULL
+Dread Infernal,Battlecry: Deal 1 damage to ALL other characters.,DEMON
+VanCleef's Vengeance,Increased stats.,NULL
+Big Banana,Give a minion +2/+2.,NULL
+Hungry Naga,NULL,NULL
+Reckless Rocketeer,Charge,NULL
+White Rook,Auto-Attack: Deal 2 damage to the enemies opposite this minion.,NULL
+Terestian Illhoof,NULL,NULL
+Thaddius,NULL,NULL
+Hellfire,Deal 3 damage to ALL characters.,NULL
+Ricardo Robaina,Battlecry: Summon three 1/1 Chinchillas.,NULL
+We All Scream,NULL,NULL
+Shadowbeast,NULL,NULL
+Jade Golem,NULL,NULL
+Mystic Wool,Transform a random enemy minion into a 1/1 Sheep.,NULL
+Jade Idol,Summon a{1} {0} Jade Golem.,NULL
+Dreadsteed,Deathrattle: Summon a Dreadsteed.,DEMON
+Dire Wolf Alpha,Adjacent minions have +1 Attack.,BEAST
+Abyssal Enforcer,Battlecry: Deal 3 damage to all other characters.,DEMON
+Hogger,NULL,NULL
+Demonwrath,Deal 2 damage to all non-Demon minions.,NULL
+Smuggling,+2/+2 from Shaky Zipgunner.,NULL
+Wish for More Wishes,Gain 2 Wishes.,NULL
+Doom Free,Attack set to 7.,NULL
+Warbot,Enrage: +1 Attack.,MECHANICAL
+Druid of the Claw,Taunt,BEAST
+Burly Rockjaw Trogg,"Whenever your opponent casts a spell, gain +2 Attack.",NULL
+Living Lava,Taunt,NULL
+Damaged Golem,NULL,MECHANICAL
+Second Class: Priest,Add Priest cards to your deck.,NULL
+Famished,Quite Hungry.,NULL
+Forgotten Armor,Gain 10 Armor.,NULL
+Nerubian Prophet,"At the start of your turn, reduce this card's
+Cost by (1).",NULL
+Burning Adrenaline,Costs (2) less.,NULL
+Reflections,"Passive Hero Power
+Whenever a minion is played, summon a 1/1 copy of it.",NULL
+Shattering Spree,"Destroy all Statues. For each destroyed, deal 3 damage.",NULL
+Junkbot,"Whenever a friendly Mech dies, gain +2/+2.",MECHANICAL
+Illidan Stormrage Cheat,"Whenever you play a card, deal 1 damage to all minions.",DEMON
+Harvest Golem,Deathrattle: Summon a 2/1 Damaged Golem.,MECHANICAL
+Rain of Fire,"Hero Power
+Fire a missile for each card in your opponent's hand.",NULL
+Unrelenting Warrior,Deathrattle: Summon a Spectral Warrior for your opponent.,NULL
+Shadow Madness,This minion has switched controllers this turn.,NULL
+Argent Horserider,"Charge
+Divine Shield",NULL
+Opponent Concede,Force your opponent to concede.,NULL
+Small-Time Buccaneer,Has +2 Attack while you have a weapon equipped.,PIRATE
+Hungry Naga,NULL,NULL
+Blessing of Kings,Give a minion +4/+4. (+4 Attack/+4 Health),NULL
+Activate!,"Hero Power
+Activate a random Tron.",NULL
+Lord Slitherspear,"At the end of your turn, summon 1/1 Hungry Naga for each enemy minion.",NULL
+Imp,NULL,DEMON
+Power of the People,Increased Attack.,NULL
+Spawn of N'Zoth,Deathrattle: Give your minions +1/+1.,NULL
+Dire Fate: Manaburst,Minions gain Deathrattle: Random card in owner's hand costs (0).,NULL
+Cursed Blade,Double all damage dealt to your hero.,NULL
+Divine Spirit,This minion has double Health.,NULL
+Armor 100,Give target Hero +100 Armor,NULL
+Brawl,Destroy all minions except one. (chosen randomly),NULL
+Guardian of Icecrown,Taunt,NULL
+Ley Lines,"Passive Hero Power
+Both players have
+Spell Damage +3.",NULL
+Smuggling,+1/+1 from Trogg Beastrager.,NULL
+Bomb Salvo,Deal Attack damage to up to 3 random targets.,NULL
+Spectral Spider,NULL,NULL
+Medivh,NULL,NULL
+Add 4 to Health.,Adds 4 health to a damaged character. Does NOT heal.,NULL
+Elemental Destruction,Deal 4-5 damage to all minions. Overload: (5).,NULL
+Dark Iron Bouncer,Always wins Brawls.,NULL
+Infest,"Give your minions ""Deathrattle: Add a random Beast to your hand.""",NULL
+Confused,Swapped Attack and Health.,NULL
+Gluth,NULL,NULL
+Force of Nature,Summon three 2/2 Treants.,NULL
+Alexstrasza,Battlecry: Set a hero's remaining Health to 15.,DRAGON
+Rat,NULL,BEAST
+Corrupted Egg,"When this minion has 5 or more Health, it hatches.",NULL
+"Yogg-Saron, Hope's End",Battlecry: Cast a random spell for each spell you've cast this game (targets chosen randomly).,NULL
+Rock Out,Summon 3 Firesworn. Overload: (2),NULL
+Stormcrack,Deal 4 damage to a minion. Overload: (1),NULL
+Hungry Crab,Battlecry: Destroy a Murloc and gain +2/+2.,BEAST
+The Darkness,Take the Shortcut?,NULL
+Piranha Launcher,"After your hero attacks,
+summon a 1/1 Piranha.",NULL
+Unearthed Raptor,Battlecry: Choose a friendly minion. Gain a copy of its Deathrattle effect.,NULL
+Quartermaster,Battlecry: Give your Silver Hand Recruits +2/+2.,NULL
+Shadow Sensei,Battlecry: Give a Stealthed minion +2/+2.,NULL
+Bananas,Give a friendly minion +1/+1. (+1 Attack/+1 Health),NULL
+Frost Elemental,Battlecry: Freeze a character.,NULL
+Fanatic Devotion,Increased Stats.,NULL
+Weapon Buff Enchant,NULL,NULL
+Safe,This minion is safe from attacks and cannot have taunt.,NULL
+Clockwork Giant,Costs (1) less for each card in your opponent's hand.,MECHANICAL
+Master of Disguise,Battlecry: Give a friendly minion Stealth until your next turn.,NULL
+Looming Presence,Draw 3 cards. Gain 6 Armor.,NULL
+Visions of the Barbarian,"Secret: When your opponent summons a minion with Charge, THUNDER FURY!",NULL
+Spectral Warrior,"At the start of your turn, deal 1 damage to your hero.",NULL
+Vicious Swipe,Deal attack damage to 2 random minions.,NULL
+Sacred Trial,"Secret: After your opponent has at least 3 minions and plays another, destroy it.",NULL
+Summoning Stone,"Whenever you cast a spell, summon a random minion of the same Cost.",NULL
+Voidcaller,Deathrattle: Put a random Demon from your hand into the battlefield.,DEMON
+Nerubian,NULL,NULL
+Boom Bot,Deathrattle: Deal 1-4 damage to a random enemy.,MECHANICAL
+"Staff, Two Pieces",Add a random epic card to your hand. It costs (3) less.,NULL
+Fjola Lightbane,"Whenever you target this minion with a spell, gain Divine Shield.",NULL
+Power Word: Shield,+2 Health.,NULL
+Shaky Zipgunner,"Deathrattle: Give a random
+minion in your hand +2/+2.",NULL
+Shado-Pan Rider,Combo: Gain +3 Attack.,NULL
+Ancient Power,"Hero Power
+Give each player a random card. It costs (0).",NULL
+"HERE, TAKE BUFF.",NULL,NULL
+Unchained!,Your next Dragon costs (2) less.,NULL
+Staff of Origination,"Passive Hero Power
+Your hero is Immune.",NULL
+Selfless Hero,Deathrattle: Give a random friendly minion Divine Shield.,NULL
+Loatheb,Battlecry: Enemy spells cost (5) more next turn.,NULL
+Silverback Patriarch,Taunt,BEAST
+Micro Machine,"At the start of each turn, gain +1 Attack.",MECHANICAL
+Dark Wispers,+5/+5 and Taunt.,NULL
+Discarded Armor,Deathrattle: Current turn player gains 5 armor.,NULL
+Arch-Thief Rafaam,Battlecry: Discover a powerful Artifact.,NULL
+Consume,Increased stats.,NULL
+Undercity Valiant,Combo: Deal 1 damage.,NULL
+Muster for Battle,Summon three 1/1 Silver Hand Recruits. Equip a 1/4 Weapon.,NULL
+Big Game Hunter,Battlecry: Destroy a minion with 7 or more Attack.,NULL
+Thirsty Blades,NULL,NULL
+Victory!,NULL,NULL
+Full Belly,+2/+2.  Full of Murloc.,NULL
+Baron Rivendare,NULL,NULL
+Eruption,"Hero Power
+Deal 3 damage to the left-most enemy minion.",NULL
+Atramedes,NULL,NULL
+Felbloom,Deal 6 damage to all minions.,NULL
+Grand Crusader,Battlecry: Add a random Paladin card to your hand.,NULL
+Refreshment Vendor,Battlecry: Restore 4 Health to each hero.,NULL
+White Knight,"Charge.
+Can't Attack Heroes.",NULL
+Sense Demons,"Draw 2 Demons
+from your deck.",NULL
+Sun Raider Phaerix,Your other minions are Immune.,NULL
+Flame Wreath,"Secret: When an enemy attacks, deal 10 damage to all other enemies.",NULL
+Explosive Runes,Summon two 'Explosive Runes.',NULL
+Zwick,Battlecry: Complain about bacon prices.,NULL
+Old Horde,"Hero Power
+Summon two 1/1 Orcs with Taunt. Get a new Hero Power.",NULL
+Wrathguard,"Whenever this minion takes damage, also deal that amount to your hero.",DEMON
+Overloading,Increased stats.,NULL
+Spider Tank,NULL,MECHANICAL
+Nefarian Strikes!,"Hero Power
+Nefarian rains fire from above!",NULL
+Glaivezooka,+1 Attack.,NULL
+Bananas,Has +1/+1.,NULL
+Black King,NULL,NULL
+Mayor Noggenfogger,All targets are chosen randomly.,NULL
+Earth Elemental,Taunt. Overload: (3),NULL
+Treant,NULL,NULL
+Damage 5,Deal 5 damage.,NULL
+Lightwell,"At the start of your turn, restore 3 Health to a damaged friendly character.",NULL
+Ooze,Taunt,NULL
+Jade Golem,NULL,NULL
+Legion,"Hero Power
+Summon two 6/6 Abyssals.",NULL
+Equality,Change the Health of ALL minions to 1.,NULL
+Boar,Charge,BEAST
+Power of the Bluff,Increased Attack.,NULL
+Recruiter,Inspire: Add a 2/2 Squire to your hand.,NULL
+Moira Bronzebeard,"Thaurissan's Hero Power can't be used.
+Never attacks minions unless they have Taunt.",NULL
+Eye of Orsis,Discover a minion and gain 3 copies of it.,NULL
+True Love,"Hero Power
+If you don't have Romulo, summon him.",NULL
+Bananas,This minion has +1/+1. (+1 Attack/+1 Health),NULL
+Hour of Corruption,Increased Attack.,NULL
+Lightning Jolt,"Hero Power
+Deal 2 damage.",NULL
+Cleave,Deal 4 damage to a minion and its owner.,NULL
+Potion of Madness,Gain control of an enemy minion with 2 or less Attack until end of turn.,NULL
+Sapphiron,NULL,NULL
+Ogre Magi,Spell Damage +1,NULL
+Armor 5,Give target Hero +5 Armor,NULL
+Sunfury Protector,Battlecry: Give adjacent minions Taunt.,NULL
+Bomb Lobber,Battlecry: Deal 4 damage to a random enemy minion.,NULL
+Wisp,NULL,NULL
+Evolve Spines,Give your hero +4 Attack this turn.,NULL
+Polymorph,This minion has been transformed into a 1/1 Sheep.,NULL
+Moo...,Summon 3 Hell Bovines. Give all Hell Bovines Taunt.,NULL
+Fate 8 Rand 2 armor each turn,NULL,NULL
+Echolocate,"Hero Power
+Equip a weapon that grows as your opponent plays cards.",NULL
+Jaws,"Whenever a minion with Deathrattle dies, gain +2 Attack.",NULL
+Darkshire Alchemist,Battlecry: Restore 5 Health.,NULL
+Screwjank Clunker,Battlecry: Give a friendly Mech +2/+2.,MECHANICAL
+Stormforged Axe,Overload: (1),NULL
+Endless Hunger,"Hero Power
+Summon a Hungry Naga.",NULL
+TIME FOR SMASH,Deal 5 damage to a random enemy. Gain 5 Armor.,NULL
+Garr,"Whenever this minion takes damage, summon a 2/3 Elemental with Taunt.",NULL
+The Majordomo,"Hero Power
+Summon a 3/3 Flamewaker Acolyte.",NULL
+Kobold Geomancer,Spell Damage +1,NULL
+Shadow Volley,Deal 3 damage to all non-Demon minions.,NULL
+Twilight Flamecaller,Battlecry: Deal 1 damage to all enemy minions.,NULL
+Disguised,Stealthed until your next turn.,NULL
+Gearmaster Mechazod,"Boss
+At the beginning of each turn, Mechazod strikes!",NULL
+Naga Repellent,Change the Attack of all Hungry Naga to 1.,NULL
+Dust Devil,Windfury. Overload: (2),NULL
+Jade Claws,"Battlecry: Summon a{1} {0} Jade Golem.
+Overload: (1)",NULL
+Team Player Enchantment,Immune ahile attacking,NULL
+Barrel,Is something in this barrel?,NULL
+Tinkmaster Overspark,"Battlecry: Transform
+another random minion
+into a 5/5 Devilsaur
+ or a 1/1 Squirrel.",NULL
+Enable Emotes,"Enable emotes for your VS.AI game. (not in tutorials, though)",NULL
+Unstable Portal,"Hero Power
+Add a random minion to your hand. It costs (3) less.",NULL
+Battle Axe,NULL,NULL
+Slime,Taunt,NULL
+Open the Gates,"Hero Power
+Summon three 1/1 Whelps.",NULL
+Might of Zul'Farrak,Multiplying Attack.,NULL
+Mire Keeper,"Choose One - Summon a
+2/2 Slime; or Gain an
+empty Mana Crystal.",NULL
+Savage Roar,Give your characters +2 Attack this turn.,NULL
+'Inspired',This minion has +2 Attack this turn.,NULL
+Fel Orc Soulfiend,"At the start of your turn, deal 2 damage to this minion.",NULL
+Brood Affliction: Blue,"While this is in your hand, Chromaggus' spells cost (3) less.",NULL
+Brood Affliction,"Hero Power
+At the end of your turn, add a Brood Affliction card to your opponent's hand.",NULL
+Anyfin Can Happen,Summon 7 Murlocs that died this game.,NULL
+Unrelenting Rider,Deathrattle: Summon a Spectral Rider for your opponent.,NULL
+Pick Your Fate Randon 2nd,NULL,NULL
+Boss HP Swapper,NULL,NULL
+Betrayal,Force an enemy minion to deal its damage to the minions next to it.,NULL
+Netherspite,NULL,NULL
+Shadow Tower Give My minions Stealth,"Can't Attack.
+Stealth.",NULL
+Goldthorn,+6 Health.,NULL
+Atiesh,"After you cast a spell,
+summon a random
+minion of that Cost.
+Lose 1 Durability.",NULL
+Crown of Kael'thas,Deal 10 damage randomly split among ALL characters.,NULL
+Caller Devotion,NULL,NULL
+Coldlight Oracle,Battlecry: Each player draws 2 cards.,MURLOC
+Destroy Deck,Delete an opponent's deck,NULL
+Fiery Bat,Deathrattle: Deal 1 damage to a random enemy.,BEAST
+Razorgore the Untamed,NULL,NULL
+Death No Rattle,"Died without triggering Deathrattle, All The Time",NULL
+Defias Cleaner,Battlecry: Silence a minion with Deathrattle.,NULL
+Blood Fury,NULL,NULL
+Enraged!,Give your hero +2 attack this turn.,NULL
+Argent Squire,Divine Shield,NULL
+Old Horde Orc,Taunt,NULL
+Ball of Spiders,Summon three 1/1 Webspinners.,NULL
+Free Cards,Your cards cost (0) for the rest of the game.,NULL
+Slimed,NULL,NULL
+Many Imps!,Summon 2 Icky Imps.,NULL
+Unleash the Hounds,"For each enemy minion, summon a 1/1 Hound with Charge.",NULL
+Am'gam Rager,NULL,NULL
+Bog Creeper,Taunt,NULL
+Shield Slam,Deal 1 damage to a minion for each Armor you have.,NULL
+Inner Rage,+2 Attack.,NULL
+Coren Direbrew,NULL,NULL
+Kabal Songstealer,Battlecry: Silence a minion.,NULL
+Nozdormu,Players only have 15 seconds to take their turns.,DRAGON
+Gruul,"At the end of each turn, gain +1/+1 .",NULL
+Dynamite,Deal 10 damage.,NULL
+Silverware Golem,NULL,NULL
+Jade Golem,NULL,NULL
+Mark of the Lotus,Give your minions +1/+1.,NULL
+Bomb Squad,"Battlecry: Deal 5 damage
+to an enemy minion.
+Deathrattle: Deal 5 damage
+to your hero.",NULL
+Museum Curator,Battlecry: Discover a Deathrattle card.,NULL
+Skelesaurus Hex,"At the end of your turn, give each player a random card. It costs (0).",NULL
+Enhance-o Mechano,"Battlecry: Give your other minions Windfury, Taunt, or Divine Shield
+(at random).",MECHANICAL
+Arcane Nullifier X-21,"Taunt
+Can't be targeted by spells or Hero Powers.",MECHANICAL
+Mechanical Dragonling,NULL,MECHANICAL
+Bone Minions,"Hero Power
+Summon two 2/1 Bone Constructs.",NULL
+Pyroblast,Deal 10 damage.,NULL
+Cairne Bloodhoof,Deathrattle: Summon a 4/5 Baine Bloodhoof.,NULL
+Void Crusher,Inspire: Destroy a random minion for each player.,DEMON
+Necrotic Poison,Destroy a minion.,NULL
+Enigmatic Portal,"At the start of next turn, your hero is transformed and sucked through the Twisting Nether.",NULL
+Gorehowl,Attacking a minion costs 1 Attack instead of 1 Durability.,NULL
+Target Dummy,Taunt,MECHANICAL
+Destroy Hero Power,Destroy a player's Hero Power.,NULL
+Rhonin,Deathrattle: Add 3 copies of Arcane Missiles to your hand.,NULL
+Living Bomb,"Choose an enemy minion. If it lives until your next turn, deal 5 damage to all enemies.",NULL
+Serrated Shadows,NULL,NULL
+Gadgetzan Jouster,"Battlecry: Reveal a minion in each deck. If yours costs more, gain +1/+1.",NULL
+Summoning Portal,"Your minions cost (2) less, but not less than (1).",NULL
+Dark Arakkoa,"Taunt
+Battlecry: Give your C'Thun
++3/+3 (wherever it is).",NULL
+Activate Magmatron,"Hero Power
+Activate Magmatron!",NULL
+Magnataur Alpha,"Also damages the minions next to whomever
+he attacks.",NULL
+Arcanite Reaper,NULL,NULL
+Mr. Bigglesworth,This is Kel'Thuzad's kitty.,BEAST
+Lord Victor Nefarius,NULL,NULL
+Hobart Grapplehammer,Battlecry: Give all weapons in your hand and deck +1 Attack.,NULL
+Heart of Fire,Deal 3 damage.,NULL
+Goldthorn,Give your minions +6 Health.,NULL
+Lord Slitherspear,"At the end of your turn, summon 1/1 Hungry Naga for each enemy minion.",NULL
+Darnassus Aspirant,"Battlecry: Gain an empty Mana Crystal.
+Deathrattle: Lose a Mana Crystal.",NULL
+Hyena,NULL,BEAST
+Bloodfury Potion,"Give a minion +3 Attack.
+If it's a Demon, also
+give it +3 Health.",NULL
+Spellbreaker,Battlecry: Silence a minion.,NULL
+Thrallmar Farseer,Windfury,NULL
+Jade Blossom,Summon a{1} {0} Jade Golem. Gain an empty Mana Crystal.,NULL
+Flame Imp,Battlecry: Deal 3 damage to your hero.,DEMON
+Unholy Shadow,"Hero Power
+Draw 2 cards.",NULL
+Rusty Hook,NULL,NULL
+Huge Ego,Increased stats.,NULL
+Spellslinger,Battlecry: Add a random spell to each player's hand.,NULL
+Armor Up!,"Hero Power
+Gain 2 Armor.",NULL
+Cleave,Deal 7 damage to a minion and its owner.,NULL
+Haunted Creeper,Deathrattle: Summon two 1/1 Spectral Spiders.,BEAST
+Elemental Eruption,Deal 4-6 damage to all other minions.,NULL
+Lady Blaumeux,Your hero is Immune.,NULL
+Tol'vir Hoplite,Deathrattle: Deal 5 damage to both heroes.,NULL
+Young Priestess,"At the end of your turn, give another random friendly minion +1 Health.",NULL
+Enraged,+2 Attack.,NULL
+Mounted Raptor,Deathrattle: Summon a random 1-Cost minion.,BEAST
+Bring it on!,+1 Attack and Taunt.,NULL
+Luck of the Coin,Going second grants you increased Health.,NULL
+Scarab,Taunt,BEAST
+Avian Watcher,"Battlecry: If you control a Secret, gain +1/+1
+and Taunt.",NULL
+Shady Dealer,"Battlecry: If you have a Pirate, gain +1/+1.",NULL
+Nether Breath,"Change the Health of
+all enemy minions to 1.",NULL
+Armorsmith,"Whenever a friendly minion takes damage, gain 1 Armor.",NULL
+Lowly Squire,Inspire: Gain +1 Attack.,NULL
+Blessing of the Sun,Immune.,NULL
+Cauldron,NULL,NULL
+Miniature,"Mini-sized, set to 1/1",NULL
+Upgrade!,"If you have a weapon, give it +1/+1. Otherwise equip a 1/3 weapon.",NULL
+Polymorph: Boar,Transform a minion into a 4/2 Boar with Charge.,NULL
+Divine Spirit,Double a minion's Health.,NULL
+Fencing Coach,"Battlecry: The next time you use your Hero Power, it costs (2) less.",NULL
+Warhorse Trainer,Your Silver Hand Recruits have +1 Attack.,NULL
+Arcanotron,Both players have Spell Damage +2.,MECHANICAL
+Spawn of Shadows,Inspire: Deal 4 damage to each hero.,NULL
+Charged Hammer,Deathrattle: Your Hero Power becomes 'Deal 2 damage.',NULL
+Finders Keepers,Discover a card with Overload. Overload: (1),NULL
+Armor Plated,Increased Attack.,NULL
+Pour a Round,Draw a card for each of your Plates.,NULL
+Perdition's Blade,Battlecry: Deal 1 damage. Combo: Deal 2 instead.,NULL
+"Mukla, Tyrant of the Vale",Battlecry: Add 2 Bananas to your hand.,BEAST
+Yong Woo,Your other minions have +3 Attack and Charge.,NULL
+Grove Tender,Choose One - Give each player a Mana Crystal; or Each player draws a card.,NULL
+Alms of Light,Restore 8 Health to each hero.,NULL
+Alarm-o-Bot,"At the start of your turn,
+swap this minion with a
+   random one in your hand.",MECHANICAL
+Orsis Guard,Divine Shield,NULL
+Pilfered Power,Gain an empty Mana Crystal for each friendly minion.,NULL
+Doppelgangster,Battlecry: Summon 2 copies of this minion.,NULL
+Ragnaros the Firelord,NULL,NULL
+Spirit Claws,"Has +2 Attack while you
+have Spell Damage.",NULL
+Charge,Has Charge.,NULL
+Gelbin Mekkatorque,Battlecry: Summon an AWESOME invention.,NULL
+Bloodsail Corsair,"Battlecry: Remove
+1 Durability from your
+opponent's weapon.",PIRATE
+Pit Lord,Battlecry: Deal 5 damage to your hero.,DEMON
+Divine Strength,Give a minion +1/+2.,NULL
+Silver Hand Regent,Inspire: Summon a 1/1 Silver Hand Recruit.,NULL
+Knife,Plates have Taunt.,NULL
+Mirror Image,Taunt,NULL
+Ogre Brute,50% chance to attack the wrong enemy.,NULL
+Shady Deals,NULL,NULL
+Benediction Splinter,Restore #10 Health to ALL characters.,NULL
+Carrion Grub,NULL,BEAST
+Booty Bay Bodyguard,Taunt,NULL
+Headcrack,Deal 2 damage to the enemy hero. Combo: Return this to your hand next turn.,NULL
+Barnes,Battlecry: Summon a 1/1 copy of a random minion in your deck.,NULL
+Crush,"Destroy a minion. If you have a damaged minion, this costs (4) less.",NULL
+SI:7 Agent,Combo: Deal 2 damage.,NULL
+Lumbering Golem,NULL,NULL
+Transcendence,"Until you kill Cho's minions, he can't be attacked.",NULL
+Lord of the Arena,Taunt,NULL
+Lady Naz'jar,"At the end of your turn, replace all other minions with new ones of the same Cost.",NULL
+Eric Del Priore,Has Taunt if it's 3 AM.,NULL
+Sporeburst,Deal 1 damage to all enemy minions. Summon a Spore.,NULL
+Party Elemental,Comes with a party!,NULL
+Floating Watcher,"Whenever your hero takes damage on your turn, gain +2/+2.",DEMON
+Whirling Ash,Windfury,NULL
+Slithering Guard,Taunt,NULL
+Tinkertown Technician,"Battlecry: If you have a Mech, gain +1/+1 and add a Spare Part to your hand.",NULL
+Snake Ball,Summon five 1/1 snakes.,NULL
+Bolster,Give your Taunt minions +2/+2.,NULL
+Enfeeble,Health changed to 1.,NULL
+Inner Fire,This minion's Attack is equal to its Health.,NULL
+Mark of Y'Shaarj,"Give a minion +2/+2.
+If it's a Beast, draw
+a card.",NULL
+Kill Millhouse!,Spells cost (0) this turn!,NULL
+Fearsome Doomguard,NULL,DEMON
+Tinker's Sharpsword Oil,Give your weapon +3 Attack. Combo: Give a random friendly minion +3 Attack.,NULL
+Flame Leviathan,"When you draw this, deal 2 damage to all characters.",MECHANICAL
+Ice Block,"Secret: When your hero takes fatal damage, prevent it and become Immune this turn.",NULL
+Mrglmrgl MRGL!,"Hero Power
+Draw 2 cards.",NULL
+Raid Leader,Your other minions have +1 Attack.,NULL
+Excess Mana,Draw a card. (You can only have 10 Mana in your tray.),NULL
+Brann Bronzebeard,Your Battlecries trigger twice.,NULL
+Twilight Summoner,Deathrattle: Summon a 5/5 Faceless Destroyer.,NULL
+Boom Bot,NULL,NULL
+Crazed Hunter,NULL,NULL
+Druid of the Fang,"Battlecry: If you have a Beast, transform this minion into a 7/7.",NULL
+Polarity Shift,"Hero Power
+Swap the Attack and Health of all minions.",NULL
+Armor Plating,Give a minion +1 Health.,NULL
+Darkness Calls,Summon two random Naxxramas bosses and trigger their Battlecries.,NULL
+Darkness Calls,Increased stats.,NULL
+Kooky Chemist,Battlecry: Swap the Attack and Health of a minion.,NULL
+Animated Armor,Your hero can only take 1 damage at a time.,NULL
+Grimy Gadgeteer,"At the end of your turn, give a random minion in your hand +2/+2.",NULL
+Grimscale Oracle,Your other Murlocs have +1 Attack.,MURLOC
+Destroy All Heroes,Destroy all heroes.,NULL
+Greenskin's Command,NULL,NULL
+Touch It,Restore 10 Health to your hero.,NULL
+Eerie Statue,Can’t attack unless it’s the only minion in the battlefield.,NULL
+Streetwise Investigator,Battlecry: Enemy minions lose Stealth.,NULL
+Orc Warrior,NULL,NULL
+Set health to full,"Set a character's health to full, and removes armour.",NULL
+Violet Teacher,"Whenever you cast a spell, summon a 1/1 Violet Apprentice.",NULL
+Jade Golem,NULL,NULL
+Giant Insect,NULL,NULL
+Ancient Power,"Hero Power
+Add a random card to your hand. It costs (0).",NULL
+Black King,NULL,NULL
+Melt,Attack changed to 0 this turn.,NULL
+Dunemaul Shaman,"Windfury, Overload: (1)
+50% chance to attack the wrong enemy.",NULL
+Immolate,Deal 7 damage to each hero.,NULL
+Chromaggus,NULL,NULL
+Hell Bovine,Deathrattle: Place a copy of this card in your deck.,DEMON
+Enable for Attack,Give a character Charge and make him able to attack!,NULL
+Rafaam,NULL,NULL
+Nourish,Draw 3 cards.,NULL
+Primal Fusion,Give a minion +1/+1 for each of your Totems.,NULL
+Dragonling Mechanic,Battlecry: Summon a 2/1 Mechanical Dragonling.,NULL
+Shredder Blade,Deathrattle: Place a Shredder Blade in your hand.,NULL
+Smuggling,Increased stats from Brass Knuckles.,NULL
+Trogg Hate Spells!,"Passive Hero Power
+ Enemy spells cost (11). Swap at the start of your turn.",NULL
+Crowd Favorite,"Whenever you play a card with Battlecry, gain +1/+1.",NULL
+Light's Justice,NULL,NULL
+Baine Bloodhoof,NULL,NULL
+Blarghghl,Increased Attack.,NULL
+Healing Wave,"Restore #7 Health. Reveal a minion in each deck. If yours costs more, Restore #14 instead.",NULL
+Explosive Shot,Deal 5 damage to a minion and 2 damage to adjacent ones.,NULL
+Twilight Elemental,NULL,NULL
+Tempered,+2 Attack this turn.,NULL
+Tail Swipe,Deal 4 damage.,NULL
+Rafaam,NULL,NULL
+N'Zoth's First Mate,Battlecry: Equip a 1/3 Rusty Hook.,PIRATE
+On the Hunt,"Deal 1 damage.
+Summon a 1/1 Mastiff.",NULL
+Trogg Hate Minions!,"Passive Hero Power
+ Enemy minions cost (11). Swap at the start of your turn.",NULL
+Cyclopian Horror,Taunt. Battlecry: Gain      +1 Health for each enemy minion.,NULL
+Foe Reaper 4000,Also damages the minions next to whomever it attacks.,MECHANICAL
+AI Buddy - All Charge!,Spawn into play to give all minions Charge.,NULL
+Silverware Golem,NULL,NULL
+Flames of Azzinoth,"Hero Power
+Summon two 2/1 minions.",NULL
+Raw Power!,Increased stats.,NULL
+Forgotten Torch,Deal 3 damage. Shuffle a 'Roaring Torch' into your deck that deals 6 damage.,NULL
+Might of Mukla,King Mukla has +8 Attack this turn.,NULL
+Endless Enchantment,NULL,NULL
+Cutpurse,"Whenever this minion attacks a hero, add the Coin to your hand.",NULL
+Call in the Finishers,Summon four 1/1 Murlocs.,NULL
+Medivh,NULL,NULL
+Wailing Soul,Battlecry: Silence your other minions.,NULL
+Frigid Snobold,Spell Damage +1,NULL
+C'Thun's Chosen,"Divine Shield
+Battlecry: Give your C'Thun
++2/+2 (wherever it is).",NULL
+Equipped,+2 Attack.,NULL
+Frost Breath,"Hero Power
+Destroy all enemy minions that aren't Frozen.",NULL
+Blessing of Wisdom,"Choose a minion. Whenever it attacks, draw a card.",NULL
+Living Bomb,"Choose an enemy minion. If it lives until your next turn, deal 5 damage to all enemies.",NULL
+Bone Construct,NULL,NULL
+Wrath of Air Totem,Spell Damage +1,NULL
+Darkbomb,Deal 3 damage.,NULL
+Junked Up,Increased stats.,NULL
+Well Equipped,NULL,NULL
+Jade Golem,NULL,NULL
+Murloc Tidecaller,"Whenever you summon a Murloc, gain +1 Attack.",MURLOC
+Training,Increased Attack.,NULL
+Drakonid Slayer,Also damages the minions next to whomever he attacks.,DRAGON
+Nefarian,NULL,NULL
+Poison Seeds,Destroy all minions and summon 2/2 Treants to replace them.,NULL
+Poisoned Blade,Your Hero Power gives this weapon +1 Attack instead of replacing it.,NULL
+Jay Baxter,Battlecry: Summon FIVE random Inventions.,NULL
+Jade Behemoth,"Taunt
+Battlecry: Summon a{1}
+{0} Jade Golem.",NULL
+Necroknight,Deathrattle: Destroy the minions next to this one as well.,NULL
+OLDPvP Rogue,"Stealth
+Regain Stealth when PvP Rogue kills a minion.",NULL
+Ironforge Portal,"Gain 4 Armor.
+Summon a random
+4-Cost minion.",NULL
+Leper Gnome,Deathrattle: Deal 2 damage to the enemy hero.,NULL
+Warsong Commander,Your Charge minions have +1 Attack.,NULL
+OLDN3wb Tank,Taunt,NULL
+Burning Adrenaline,Deal 2 damage to the enemy hero.,NULL
+-1 Durability,Give a player's weapon -1 Durability.,NULL
+Eye In The Sky,Leokk is granting this minion +1 Attack.,NULL
+Squid Oil Sheen,+2 Attack,NULL
+Tentacle of N'Zoth,Deathrattle: Deal 1 damage to all minions.,NULL
+Ice Rager,NULL,NULL
+Beacon of Hope,NULL,NULL
+Blessing of Might,Give a minion +3 Attack.,NULL
+Mind Blast,Deal 5 damage to the enemy hero.,NULL
+Eater of Secrets,Battlecry: Destroy all enemy Secrets. Gain +1/+1 for each.,NULL
+Djinn’s Intuition,Draw a card. Gain a Mana Crystal. Give your opponent a Wish.,NULL
+Dancing Swords,Deathrattle: Your opponent draws a card.,NULL
+Fate: Bananas,"When a minion dies, its owner gets a (1) mana Banana.",NULL
+Activate Electron,"Hero Power
+Activate Electron!",NULL
+Druid of the Flame,NULL,BEAST
+Sinister Strike,Deal 3 damage to the enemy hero.,NULL
+Commanding Shout,Your minions can't be reduced below 1 Health this turn.,NULL
+Skycap'n Kragg,"Charrrrrge
+Costs (1) less for each friendly Pirate.",PIRATE
+Eviscerate,Deal 2 damage. Combo: Deal 4 damage instead.,NULL
+Menagerie Warden,Battlecry: Choose a friendly Beast. Summon a copy of it.,NULL
+Hell Bovine Champion,Deathrattle: Current turn player gains a random weapon.,DEMON
+Doomhammer,"Windfury, Overload: (2)",NULL
+Ceremony,NULL,NULL
+Trogg Hate Minions!,"Passive Hero Power
+ Enemy minions cost (2) more. Swap at the start of your turn.",NULL
+Bloodhoof Brave,"Taunt
+Enrage: +3 Attack.",NULL
+Shield Block,"Gain 5 Armor.
+Draw a card.",NULL
+Fate 8 Get Armor,NULL,NULL
+Skelesaurus Hex,NULL,NULL
+The Silver Hand,"Hero Power
+Summon two 1/1 Recruits.",NULL
+Lost Tallstrider,NULL,BEAST
+Demigod's Favor,NULL,NULL
+Squire,NULL,NULL
+Brave Archer,"Inspire: If your hand is empty, deal 2 damage to the enemy hero.",NULL
+Mana Addict,"Whenever you cast a spell, gain +2 Attack this turn.",NULL
+Obsidian Destroyer,"At the end of your turn, summon a 1/1 Scarab with Taunt.",NULL
+Fireball,Deal 6 damage.,NULL
+Fate,Deathrattle: random card in owner's hand costs (0).,NULL
+Seething Statue,"At the end of your turn, deal 5 damage to all enemies.",NULL
+Multi-Shot,Deal 3 damage to two random enemy minions.,NULL
+Mimiron's Head,"At the start of your turn, if you have at least 3 Mechs, destroy them all and form V-07-TR-0N.",MECHANICAL
+Weapon Nerf Enchant,Red Sparkles!,NULL
+Atiesh,"After you cast a spell,
+summon a random
+minion of that Cost.
+Lose 1 Durability.",NULL
+Drakonid Operative,"Battlecry: If you're holding a
+Dragon, Discover a card in
+ your opponent's deck.",DRAGON
+Onyxia,NULL,NULL
+Demonic Presence,"Draw 3 cards.
+Gain 10 Armor.",NULL
+Jeweled Scarab,"Battlecry: Discover a
+3-Cost card.",BEAST
+Naga Corsair,Battlecry: Give your weapon +1 Attack.,PIRATE
+Son of the Flame,Battlecry: Deal 6 damage.,NULL
+Stablemaster,Battlecry: Give a friendly Beast Immune this turn.,NULL
+Wolfrider,Charge,NULL
+Wicked Knife,NULL,NULL
+Unlicensed Apothecary,"Whenever you summon a minion, deal 5 damage to your Hero.",DEMON
+Ancient Secrets,Restore 5 Health.,NULL
+Grotesque Dragonhawk,Windfury,BEAST
+Optimism,NULL,NULL
+Tank Mode,+1 Health.,NULL
+Ryan Masterson,"Battlecry: Cast copies of Backstab, Cold Blood, and Eviscerate. (targets chosen randomly).",NULL
+Jade Golem,NULL,NULL
+Panther Form,+1/+1 and Stealth,NULL
+Prince Malchezaar,NULL,DEMON
+Imperial Favor,Costs (1) less.,NULL
+Worshipper,Your hero has +3 Attack on your turn.,NULL
+Holy Nova,Deal 2 damage to all enemies. Restore #2 Health to all friendly characters.,NULL
+Equipped,Increased Attack.,NULL
+Shadow Word: Pain,Destroy a minion with 3 or less Attack.,NULL
+Smuggler's Crate,Give a random Beast in your hand +2/+2.,NULL
+Fate,Deathrattle: Your owner gets a coin.,NULL
+Prioritize,Deal Attack damage to biggest minion.,NULL
+Faerie Dragon,Can't be targeted by spells or Hero Powers.,DRAGON
+Kabal Trafficker,"At the end of your turn,
+add a random Demon
+to your hand.",NULL
+Mark of Nature,+4 Health and Taunt.,NULL
+Skitter,"Hero Power
+Summon a 4/4 Nerubian.",NULL
+Destroy Played Cards,"Whenever a player summons a minion, destroy it.",NULL
+Decimate,Health changed to 1.,NULL
+Chicken,Hey Chicken!,BEAST
+JC Park,Battlecry: Add a new platform for Hearthstone.,NULL
+Jeering Crowd,"Hero Power
+Summon a 1/1 Spectator with Taunt.",NULL
+Finkle Einhorn,NULL,NULL
+Hour of Twilight,Increased Health.,NULL
+Big-Time Racketeer,Battlecry: Summon a 6/6 Ogre.,NULL
+Mine Shaft,NULL,NULL
+Smuggler's Run,Give all minions in your hand +1/+1.,NULL
+Voidwalker,Taunt,DEMON
+Healing Touch,Restore #8 Health.,NULL
+Timber Wolf,Your other Beasts have +1 Attack.,BEAST
+Second Class: Warrior,Add Warrior cards to your deck.,NULL
+Jonas Laster,"Whenever a Silenced minion dies, gain +1/+1.",NULL
+Pitcher,Battlecry: Give a minion +2/+2.,NULL
+Brood Affliction: Bronze,"While this is in your hand, Chromaggus' minions cost (1) less.",NULL
+Earthen Statue,NULL,NULL
+Scarlet Purifier,Battlecry: Deal 2 damage to all minions with Deathrattle.,NULL
+Raise Dead,"Passive Hero Power
+Whenever an enemy dies, raise a 1/1 Skeleton.",NULL
+Restore 1,Restore #1 Health to a character.,NULL
+The Steel Sentinel,NULL,NULL
+Cheap Gift,This card's cost is reduced.,NULL
+Explosive Rune,"At the start of your turn, this explodes, dealing 9 damage to your hero.",NULL
+Arathi Weaponsmith,Battlecry: Equip a 2/2 weapon.,NULL
+Mark of Nature,This minion has +4 Health and Taunt.,NULL
+Murloc Bonus,Summon a 1/1 Murloc at the end of your turn.,NULL
+Break Weapon,Destroy a hero's weapon.,NULL
+Imp Master,"At the end of your turn, deal
+1 damage to this minion
+ and summon a 1/1 Imp.",NULL
+Druid of the Fang,NULL,BEAST
+Brow Furrow,Increased stats.,NULL
+Armor Plating,+1 Health.,NULL
+Silver Hand Knight,Battlecry: Summon a 2/2 Squire.,NULL
+Naturalize,"Destroy a minion.
+Your opponent draws 2 cards.",NULL
+Decimate,"Hero Power
+Change the Health of enemy minions to 1.",NULL
+Dagger Mastery,"Hero Power
+Equip a 1/2 Dagger.",NULL
+King of Beasts,Taunt. Battlecry: Gain +1 Attack for each other Beast you have.,BEAST
+Druid of the Claw,Choose One - Charge; or +2 Health and Taunt.,NULL
+Anubisath Sentinel,Deathrattle: Give a random friendly minion +3/+3.,NULL
+Lorewalker Cho,NULL,NULL
+Vilefin Inquisitor,Battlecry: Your Hero Power becomes 'Summon a   1/1 Murloc.',MURLOC
+Eadric the Pure,"Battlecry: Change all enemy minions'
+Attack to 1.",NULL
+Chromatic Dragonkin,"Whenever your opponent casts a spell, gain +2/+2.",DRAGON
+Tank Mode,+1 Health.,NULL
+ME SMASH,"Hero Power
+Destroy a random damaged enemy minion.",NULL
+Become Hogger,Become Hogger for Video Recording.,NULL
+Mike Donais,"Battlecry: Replace all minions in the battlefield, in both hands, and in both decks with random minions.",NULL
+Dream,Return a minion to its owner's hand.,NULL
+Jason Chayes,Enrage: Just kidding! He never Enrages.,NULL
+Vanish,Return all minions to their owner's hand.,NULL
+Ley Lines,"Passive Hero Power
+Both players have
+Spell Damage +5.",NULL
+Deathlord,Taunt. Deathrattle: Your opponent puts a minion from their deck into the battlefield.,NULL
+The Curator,"Taunt
+Battlecry: Draw a Beast, Dragon, and Murloc from your deck.",MECHANICAL
+Fight Promoter,"Battlecry: If you control
+a minion with 6 or more
+ Health, draw two cards.",NULL
+Loves Annoy-o-tron,NULL,NULL
+Brood Affliction: Black,"While this is in your hand, whenever Chromaggus draws a card, he gets another copy of it.",NULL
+Keith Landes,"At the start of your turn, get -2 Health due to hunger.",NULL
+Ravaging Ghoul,Battlecry: Deal 1 damage to all other minions.,NULL
+Rock,Taunt,NULL
+Armor 1,Give target Hero +1 Armor,NULL
+Deadly Fork,Deathrattle: Add a 3/2 weapon to your hand.,NULL
+Celestial Dreamer,"Battlecry: If a friendly minion has 5 or more Attack, gain +2/+2.",NULL
+Windfury Harpy,Windfury,NULL
+Blackwing,"Hero Power
+Summon a 5/4 Dragonkin. Get a new Hero Power.",NULL
+Shieldbearer,Taunt,NULL
+Sun Raider Phaerix,NULL,NULL
+Add 8 to Health.,Adds 8 health to a damaged character. Does NOT heal.,NULL
+Razorgore the Untamed,NULL,NULL
+Map to the Golden Monkey,Shuffle the Golden Monkey into your deck. Draw a card.,NULL
+Malkorok,Battlecry: Equip a random weapon.,NULL
+Gladiator's Longbow,Your hero is Immune while attacking.,NULL
+Staff of Origination,Add a random legendary minion to your hand. It costs (4) less.,NULL
+Razorgore,"At the start of your turn, give your minions +3 Attack.",DRAGON
+Fate,Deathrattle: Your owner gets a banana.,NULL
+The Tidal Hand,"Hero Power
+Summon a 1/1 Silver Hand Murloc.",NULL
+Omegawarper,Both player's Mechs cost (2) less.,MECHANICAL
+Open the Gates,"Hero Power
+Summon three 2/2 Whelps. Get a new Hero Power.",NULL
+Beomki Hong,Taunt. Friendly minions can’t be Frozen.,NULL
+Robin Fredericksen,"Battlecry: If you have no other Erics on the battlefield, rename this card to ""Eric"".",NULL
+Dual Warglaives,NULL,NULL
+True Form,"Hero Power
+Let the games begin!",NULL
+Gift of Cards,Each player draws a card.,NULL
+Famished,Quite Hungry.,NULL
+Clockwork Knight,Battlecry: Give a friendly Mech +1/+1.,MECHANICAL
+Recharge,Fill all empty Mana Crystals.,NULL
+Massive Runeblade,Deals double damage to heroes.,NULL
+Vengeance,NULL,NULL
+Onyxia,Battlecry: Summon 1/1 Whelps until your side of the battlefield is full.,DRAGON
+Madness Potion,This minion has switched controllers this turn.,NULL
+Worshipper,Your hero has +1 Attack on your turn.,NULL
+Dispatch Kodo,Battlecry: Deal damage equal to this minion's Attack.,BEAST
+Eaglehorn Bow,"Whenever a friendly
+Secret is revealed,
+gain +1 Durability.",NULL
+Terrifying Roar,Return an enemy minion to your opponent's hand.,NULL
+Lesser Heal,"Hero Power
+Restore #2 Health.",NULL
+Tournament Medic,Inspire: Restore 2 Health to your hero.,NULL
+Mind Vision,Put a copy of a random card in your opponent's hand into your hand.,NULL
+Arcane Golem,Battlecry: Give your opponent a Mana Crystal.,NULL
+Heavy Axe,NULL,NULL
+Doomguard,Charge. Battlecry: Discard two random cards.,DEMON
+Shattered Sun Cleric,Battlecry: Give a friendly minion +1/+1.,NULL
+Hunter's Mark,This minion has 1 Health.,NULL
+Mindgames,"Put a copy of
+a random minion from
+your opponent's deck into the battlefield.",NULL
+Main Tank,"Battlecry: Give all other minions +2/+2, except the Boss.",NULL
+Needs Sharpening,Decreased Attack.,NULL
+Heroic Strike,+4 Attack this turn.,NULL
+Ethereal Arcanist,"If you control a Secret at the end of your turn, gain +2/+2.",NULL
+Derek Sakamoto,The notorious Footclapper.,NULL
+Romulo,Julianne is Immune.,NULL
+Tuskarr Jouster,"Battlecry: Reveal a minion in each deck. If yours costs more, restore 7 Health to your hero.",NULL
+Prince Malchezaar,NULL,NULL
+Intrepid Dragonstalker,"Whenever ANY player plays a card, gain +1/+1.",NULL
+Duplicate,"Secret: When a friendly minion dies, put 2 copies of it into your hand.",NULL
+Meddling Fool!,Damage the Lorewalker,NULL
+Silvermoon Guardian,Divine Shield,NULL
+Secrets of Karazhan,+1/+1 and Taunt.,NULL
+Empowered,+8 Attack this turn.,NULL
+Redemption,"Secret: When one of your minions dies, return it to life with 1 Health.",NULL
+Morgl the Oracle,NULL,NULL
+Hell Bovine,Deathrattle: Place a copy of this card in your deck.,DEMON
+Twilight Whelp,"Battlecry: If you're holding a Dragon, gain +2 Health.",DRAGON
+Coldlight Seer,Battlecry: Give your other Murlocs +2 Health.,MURLOC
+Harvest,"Hero Power
+Draw a card. Gain a Mana Crystal.",NULL
+Blood Imp,"  Stealth. At the end of your  
+turn, give another random
+ friendly minion +1 Health.",DEMON
+Dark Wispers,+5/+5 and Taunt.,NULL
+So Many...,"Whenever a Hell Bovine Dies, draw a card.",NULL
+Draw 3 Cards,Draw 3 cards.,NULL
+Sorcerer's Apprentice,Your spells cost (1) less.,NULL
+Shadow Oil,Add 2 random Demons to your hand.,NULL
+Blood Knight,Battlecry: All minions lose Divine Shield. Gain +3/+3 for each Shield lost.,NULL
+Cowed,Can't attack this turn.,NULL
+OLDLegit Healer,"At the end of your turn, summon a random friendly minion that died this turn.",NULL
+Maloriak,NULL,NULL
+Hallazeal the Ascended,"Whenever your spells deal damage, restore that much Health to your hero.",NULL
+Mastiff,NULL,BEAST
+Imp Gang Boss,"Whenever this minion takes damage, summon a 1/1 Imp.",DEMON
+Doppelgangster,Battlecry: Summon 2 copies of this minion.,NULL
+Sunwalker,"Taunt
+Divine Shield",NULL
+Shadow Tower Stealth,Stealth.,NULL
+Overclock,Increased Attack.,NULL
+Coldarra Drake,You can use your Hero Power any number of times.,DRAGON
+Animate Earthen,Give your minions +3/+3 and Taunt.,NULL
+Platemail Armor,"Passive Hero Power
+Your Hero can only take 1 damage at a time.",NULL
+Hand to Deck,Shuffle a player's hand into his deck.,NULL
+Gadgetzan Socialite,Battlecry: Restore 2 Health.,NULL
+Lantern of Power,Give a minion +10/+10.,NULL
+Vassal's Subservience,NULL,NULL
+Curse of Rafaam,"Give your opponent a 'Cursed!' card.
+While they hold it, they take 2 damage on their turn.",NULL
+Shadow Oil,Add a random Demon to your hand.,NULL
+Ancestor's Call,Put a random minion from each player's hand into the battlefield.,NULL
+Essence of the Red,"Hero Power
+Each player draws 3 cards. Gain a Mana Crystal.",NULL
+Kabal Lackey,"Battlecry: The next Secret
+you play this turn costs (0).",NULL
+Living Roots,Deal 2 damage.,NULL
+Preparation,The next spell you cast this turn costs (3) less.,NULL
